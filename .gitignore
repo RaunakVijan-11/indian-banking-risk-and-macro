@@ -224,3 +224,9 @@ data/raw/*
 !data/raw/.gitkeep
 .env
 .DS_Store
+
+# Project-specific
+data/raw/*
+!data/raw/.gitkeep
+.env
+.DS_Store
