@@ -1,0 +1,5 @@
+,ann_return,ann_vol,sharpe,max_drawdown
+0 bps/side,0.01,0.053,0.188,-0.194
+5 bps/side,0.008,0.053,0.15,-0.198
+10 bps/side,0.006,0.053,0.112,-0.202
+20 bps/side,0.002,0.053,0.036,-0.209
