@@ -1,0 +1,25 @@
+spread,period,vol_regime,phi,t_HAC,half_life_days,n
+full-sample hedge ratio,full,all,-0.015,-5.764,46.831,4619
+full-sample hedge ratio,full,low,-0.009,-2.49,76.65,1539
+full-sample hedge ratio,full,mid,-0.008,-2.237,85.624,1539
+full-sample hedge ratio,full,high,-0.023,-5.166,29.477,1539
+full-sample hedge ratio,pre-merger,all,-0.018,-5.543,39.163,3812
+full-sample hedge ratio,pre-merger,low,-0.013,-2.213,53.982,991
+full-sample hedge ratio,pre-merger,mid,-0.009,-2.338,76.744,1333
+full-sample hedge ratio,pre-merger,high,-0.024,-5.124,28.986,1487
+full-sample hedge ratio,post-merger,all,-0.008,-0.984,91.24,807
+full-sample hedge ratio,post-merger,low,-0.012,-1.312,57.939,548
+full-sample hedge ratio,post-merger,mid,0.002,0.222,inf,206
+full-sample hedge ratio,post-merger,high,0.001,0.027,inf,52
+pre-merger hedge ratio,full,all,-0.014,-5.804,50.325,4619
+pre-merger hedge ratio,full,low,-0.008,-2.295,91.269,1539
+pre-merger hedge ratio,full,mid,-0.009,-2.319,79.446,1539
+pre-merger hedge ratio,full,high,-0.024,-5.486,28.971,1539
+pre-merger hedge ratio,pre-merger,all,-0.018,-5.805,38.037,3812
+pre-merger hedge ratio,pre-merger,low,-0.012,-1.97,59.041,991
+pre-merger hedge ratio,pre-merger,mid,-0.011,-2.599,64.236,1333
+pre-merger hedge ratio,pre-merger,high,-0.025,-5.473,27.868,1487
+pre-merger hedge ratio,post-merger,all,-0.007,-0.975,94.479,807
+pre-merger hedge ratio,post-merger,low,-0.012,-1.316,59.523,548
+pre-merger hedge ratio,post-merger,mid,0.003,0.261,inf,206
+pre-merger hedge ratio,post-merger,high,-0.0,-0.003,5250.808,52

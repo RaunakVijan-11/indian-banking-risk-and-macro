@@ -1,0 +1,6 @@
+period,regime,entries,pct_reverted,median_days
+post-merger,high,1,0.0,
+post-merger,low,11,0.0,
+post-merger,mid,4,0.0,
+pre-merger,high,19,0.63,44.0
+pre-merger,mid,2,0.5,11.0
