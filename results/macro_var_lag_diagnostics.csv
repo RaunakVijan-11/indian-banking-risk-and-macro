@@ -1,0 +1,3 @@
+lags,stable,min_abs_root,whiteness_p (12 lags),normality_p,AIC,BIC
+1,True,1.0385,0.0424,0.0,0.8819,1.7896
+2,True,1.0586,0.1207,0.0,0.7367,2.4445

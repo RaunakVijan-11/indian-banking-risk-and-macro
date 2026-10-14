@@ -1,0 +1,15 @@
+caused,cause,F,p,p_holm
+nb_ret,dln_brent,5.151,0.0059,0.065
+nb_ret,d_us10y,1.3531,0.2588,1.0
+nb_ret,d_infl,1.5751,0.2074,1.0
+nb_ret,d_repo,0.0695,0.9329,1.0
+nb_ret,dln_usdinr,0.7136,0.4901,1.0
+nb_ret,ln_vol,1.3985,0.2473,1.0
+nb_ret,ALL 5 MACRO,1.8042,0.0554,
+ln_vol,dln_brent,2.494,0.083,0.8297
+ln_vol,d_us10y,0.3303,0.7187,1.0
+ln_vol,d_infl,2.0183,0.1333,1.0
+ln_vol,d_repo,1.6993,0.1832,1.0
+ln_vol,dln_usdinr,0.0145,0.9856,1.0
+ln_vol,nb_ret,8.3766,0.0002,0.0029
+ln_vol,ALL 5 MACRO,1.208,0.281,

@@ -1,0 +1,7 @@
+system,k_ar_diff,rank_95,trace_r0,crit95_r0,trace_r1,crit95_r1
+full 7 vars,1,3,188.4,125.6,127.7,95.8
+full 7 vars,2,2,157.9,125.6,103.4,95.8
+full 7 vars,3,1,135.1,125.6,94.6,95.8
+core 5 vars,1,1,86.2,69.8,42.2,47.9
+core 5 vars,2,1,70.8,69.8,35.1,47.9
+core 5 vars,3,0,57.8,69.8,31.0,47.9

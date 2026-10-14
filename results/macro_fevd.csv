@@ -1,0 +1,15 @@
+response,shock,h=1,h=6,h=12,h=24
+nb_ret,dln_brent,11.7,13.1,13.1,13.1
+nb_ret,d_us10y,0.5,2.1,2.1,2.1
+nb_ret,d_infl,0.1,1.7,1.7,1.7
+nb_ret,d_repo,0.5,0.7,0.7,0.7
+nb_ret,dln_usdinr,25.4,24.0,24.0,24.0
+nb_ret,nb_ret,61.9,57.3,57.2,57.2
+nb_ret,ln_vol,0.0,1.2,1.2,1.2
+ln_vol,dln_brent,5.3,14.9,15.2,15.2
+ln_vol,d_us10y,0.8,2.0,2.1,2.1
+ln_vol,d_infl,0.2,0.5,0.6,0.6
+ln_vol,d_repo,2.9,1.1,1.0,1.0
+ln_vol,dln_usdinr,5.7,9.5,9.7,9.7
+ln_vol,nb_ret,7.0,10.4,10.1,10.1
+ln_vol,ln_vol,77.9,61.5,61.4,61.4

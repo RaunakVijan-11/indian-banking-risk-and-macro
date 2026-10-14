@@ -1,0 +1,5 @@
+,dln_brent,d_us10y,d_infl,d_repo,dln_usdinr,nb_ret
+baseline (2 lags),-0.034,0.012,-0.008,-0.001,0.026,-0.021
+bank return before USD/INR,-0.034,0.012,-0.008,-0.001,0.011,-0.032
+bank return ordered first,-0.021,0.009,-0.007,0.002,0.011,-0.042
+realised vol instead of EGARCH,-0.036,-0.002,-0.013,0.001,0.024,-0.014
